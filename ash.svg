@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- terminal body -->
+  <rect x="4" y="8" width="40" height="32" rx="5" ry="5" fill="#1a1b26"/>
+
+  <!-- title bar strip -->
+  <rect x="4" y="8" width="40" height="10" rx="5" ry="5" fill="#16172a"/>
+  <rect x="4" y="13" width="40" height="5" fill="#16172a"/>
+
+  <!-- traffic light dots -->
+  <circle cx="13" cy="13" r="2.5" fill="#f7768e"/>
+  <circle cx="21" cy="13" r="2.5" fill="#e0af68"/>
+  <circle cx="29" cy="13" r="2.5" fill="#9ece6a"/>
+
+  <!-- prompt: > -->
+  <text x="10" y="30" font-family="monospace" font-size="10" font-weight="bold" fill="#7aa2f7">&#62;</text>
+
+  <!-- cursor block -->
+  <rect x="18" y="22" width="6" height="10" rx="1" fill="#c0caf5" opacity="0.9"/>
+
+  <!-- faint second line -->
+  <rect x="10" y="36" width="20" height="1.5" rx="1" fill="#414868"/>
+</svg>
