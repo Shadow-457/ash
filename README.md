@@ -15,7 +15,6 @@ sudo pacman -S gtk3 vte3 pkgconf gcc
 
 ```sh
 make
-./ash
 ```
 
 ## install system-wide
