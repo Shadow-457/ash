@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Ash
+Comment=A minimal terminal emulator
+Exec=ash
+Icon=ash
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
+Keywords=terminal;shell;console;
+StartupNotify=false
